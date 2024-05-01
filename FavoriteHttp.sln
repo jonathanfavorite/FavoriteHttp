@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FavoriteHttp.Playground", "FavoriteHttp.Playground\FavoriteHttp.Playground.csproj", "{138BA6CD-65C2-4468-B8FE-D3D533F0FA2D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FavoriteHttp", "FavoriteHttp\FavoriteHttp.csproj", "{7D4B35C1-0E4D-4E43-A056-12DB0F834C69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{138BA6CD-65C2-4468-B8FE-D3D533F0FA2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{138BA6CD-65C2-4468-B8FE-D3D533F0FA2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{138BA6CD-65C2-4468-B8FE-D3D533F0FA2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{138BA6CD-65C2-4468-B8FE-D3D533F0FA2D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D4B35C1-0E4D-4E43-A056-12DB0F834C69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D4B35C1-0E4D-4E43-A056-12DB0F834C69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D4B35C1-0E4D-4E43-A056-12DB0F834C69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D4B35C1-0E4D-4E43-A056-12DB0F834C69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59313B11-A41A-468C-B847-936A3E2091B6}
+	EndGlobalSection
+EndGlobal
